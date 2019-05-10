@@ -1,0 +1,2 @@
+Id,TableName,IsActive,S3Path,RAWPath,NotebookPath,OUTPUTPATH,S3FilePath,Source,Load,Expression,KeyValue,JoinColumn
+3,Employee,1,ablobcontainer/employee,RAW/FILES/BRDIGEi2i/EMPLOYEE,/Users/adffullload/full_effex_transformation,OUTPUT/BRDIGEi2i/EMPLOYEE,Employee,EFFEX,FULL,NULL,NULL,NULL
